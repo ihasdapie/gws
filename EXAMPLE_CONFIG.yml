@@ -1,0 +1,6 @@
+BaseUrl: "127.0.0.1:6969"
+Port: ":6969"
+Serve_Directory: "path/to/your/site"
+Allowed_Paths: ['/', '/about/', '/posts/']
+Error_404: "/404.html"
+Error_403: "/403.html"
