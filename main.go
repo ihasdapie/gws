@@ -1,5 +1,5 @@
 /*
-(c) 2020 Brian Chen ihasdapi <at> gmail.com
+(c) 2021 Brian Chen ihasdapi <at> gmail.com
 This is licensed under the 'unlicense' license. See LICENSE for details.
 
   ,----..              .---.  .--.--.    
@@ -18,8 +18,7 @@ This is licensed under the 'unlicense' license. See LICENSE for details.
 (g)o (w)eb (s)erver
 
 
-Simple go web server for personal static site hosting.
-
+Bare-bones GET-only web server in golang for personal static site hosting.
 
 Probably best to put this behind a nginx reverse proxy.
 Usage is simple:
