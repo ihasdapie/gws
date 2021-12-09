@@ -1,3 +1,30 @@
+/*
+(c) 2020 Brian Chen ihasdapi <at> gmail.com
+This is licensed under the 'unlicense' license. See LICENSE for details.
+
+  ,----..              .---.  .--.--.    
+ /   /   \            /. ./| /  /    '.  
+|   :     :       .--'.  ' ;|  :  /`. /  
+.   |  ;. /      /__./ \ : |;  |  |--`   
+.   ; /--`   .--'.  '   \' .|  :  ;_     
+;   | ;  __ /___/ \ |    ' ' \  \    `.  
+|   : |.' .';   \  \;      :  `----.   \ 
+.   | '_.' : \   ;  `      |  __ \  \  | 
+'   ; : \  |  .   \    .\  ; /  /`--'  / 
+'   | '/  .'   \   \   ' \ |'--'.     /  
+|   :    /      :   '  |--"   `--'---'   
+ \   \ .'        \   \ ;                 
+  `---`           '---"                  
+(g)o (w)eb (s)erver
+
+
+Simple go web server for personal static site hosting.
+
+
+Probably best to put this behind a nginx reverse proxy.
+Usage is simple:
+    `go run ./main.go`
+*/
 package main
 
 import (
